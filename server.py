@@ -3,9 +3,8 @@ import threading
 
 
 """
-Hailey Hoyat's IPv4: 192.168.1.132
-Hailey Hoyat's public IP: 99.61.193.220
 
+For multiplayer game from different LAN's
 server: private IP
 client: public IP of server
 """
